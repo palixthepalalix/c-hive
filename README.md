@@ -18,7 +18,8 @@
 ### Running app
 From the root of this repo, run the following command in your terminal:
 
-```(venv) acook@acook-mac chive $ python ./app.py
+```
+(venv) acook@acook-mac chive $ python ./app.py
  * Serving Flask app "app" (lazy loading)
  * Environment: production
    WARNING: Do not use the development server in a production environment.
